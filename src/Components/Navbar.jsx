@@ -32,7 +32,7 @@ const Navbar = () => {
   `}
           >
             <a
-              href=""
+              href="#home"
               className={menu === "home" ? " " : ""}
               onClick={() => setMenu("home")}
             >
