@@ -6,8 +6,8 @@ import Navbar from "./Components/Navbar";
 import Skills from "./assets/pages/Skills";
 import Edu from "./assets/pages/Edu";
 import Project from "./assets/pages/Project";
-import Footer from "./Components/footer";
 import { Route, Routes } from "react-router-dom";
+import Footer2 from "./Components/Footer2";
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
         <Skills />
         <Project />
         <Contact />
-        <Footer />
+        <Footer2 />
       </div>
     </>
   );

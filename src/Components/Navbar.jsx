@@ -1,8 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { Menu } from "lucide-react";
 import Sidebar from "./Sidebar";
-import Hero from "../assets/pages/Hero";
-import About from "../assets/pages/About";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
