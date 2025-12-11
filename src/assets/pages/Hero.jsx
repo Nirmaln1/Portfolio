@@ -3,7 +3,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="mt-10 md:mt-0 scroll-mt-20" id="hero">
+    <div className="mt-10 md:mt-0 scroll-mt-20" id="home">
       <div className="flex flex-col h:auto  md:h-[97vh] items-center md:flex-row mx-4 ">
         <div className="text-white flex-1 md:flex-3 order-2 md:order-1 mt-5 md:mt-0 ">
           {/* {" "}
