@@ -45,7 +45,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
           <li>Contact</li> */}
           <li>
             <a
-              href="#hero"
+              href="#home"
               className="text-white"
               onClick={() => setIsOpen(!isOpen)}
             >
