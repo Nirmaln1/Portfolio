@@ -48,7 +48,7 @@ const Hero = () => {
               <button
                 onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/12YPczHZSPo_U9PJgq7MnwiBQ9o5qeUHQ/view?usp=sharing"
+                    "https://drive.google.com/uc?export=download&id=12YPczHZSPo_U9PJgq7MnwiBQ9o5qeUHQ"
                   )
                 }
                 className="mt-4 bg-[linear-gradient(276deg,#da72a5_0.36%,#b923e1_102.36%)] rounded-[45px] cursor-pointer hover:scale-105 w-fit mx-auto mt-2 text-white p-3"
